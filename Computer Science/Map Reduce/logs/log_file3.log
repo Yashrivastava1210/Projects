@@ -1,0 +1,195 @@
+Process: 455 Time: 2022-03-24 00:01:04,771 Message: System Ready to run Map Reduce
+Process: 455 Time: 2022-03-24 00:01:04,771 Message: Client has started Map Reduce Operation.
+Process: 455 Time: 2022-03-24 00:01:04,772 Message: Splitting input file to feed to Mappers
+Process: 455 Time: 2022-03-24 00:01:05,037 Message: Finished Splitting the file
+Process: 455 Time: 2022-03-24 00:01:05,038 Message: Starting Map operations
+Process: 455 Time: 2022-03-24 00:01:05,260 Message: Finished Running all mappers
+Process: 455 Time: 2022-03-24 00:01:05,260 Message: Merging file to feed to reducers
+Process: 455 Time: 2022-03-24 00:01:05,398 Message: Merge files finished
+Process: 455 Time: 2022-03-24 00:01:05,399 Message: Starting reduce operations
+Process: 455 Time: 2022-03-24 00:01:14,780 Message: Finished running all reducers
+Process: 455 Time: 2022-03-24 00:01:14,780 Message: Combining results for all Reducers
+Process: 455 Time: 2022-03-24 00:01:14,810 Message: Finished combining results. Final result file created.
+Process: 455 Time: 2022-03-24 00:01:14,811 Message: Deleted all temporary files. Ending map reduce instance.
+Process: 455 Time: 2022-03-24 00:02:04,426 Message: System Ready to run Map Reduce
+Process: 455 Time: 2022-03-24 00:02:04,427 Message: Client has started Map Reduce Operation.
+Process: 455 Time: 2022-03-24 00:02:04,427 Message: Splitting input file to feed to Mappers
+Process: 455 Time: 2022-03-24 00:02:04,642 Message: Finished Splitting the file
+Process: 455 Time: 2022-03-24 00:02:04,643 Message: Starting Map operations
+Process: 455 Time: 2022-03-24 00:02:04,825 Message: Finished Running all mappers
+Process: 455 Time: 2022-03-24 00:02:04,826 Message: Merging file to feed to reducers
+Process: 455 Time: 2022-03-24 00:02:04,984 Message: Merge files finished
+Process: 455 Time: 2022-03-24 00:02:04,985 Message: Starting reduce operations
+Process: 455 Time: 2022-03-24 00:02:15,712 Message: Finished running all reducers
+Process: 455 Time: 2022-03-24 00:02:15,712 Message: Combining results for all Reducers
+Process: 455 Time: 2022-03-24 00:02:15,744 Message: Finished combining results. Final result file created.
+Process: 455 Time: 2022-03-24 00:02:15,746 Message: Deleted all temporary files. Ending map reduce instance.
+Process: 455 Time: 2022-03-24 00:02:15,866 Message: System Ready to run Map Reduce
+Process: 455 Time: 2022-03-24 00:02:15,866 Message: Client has started Map Reduce Operation.
+Process: 455 Time: 2022-03-24 00:02:15,866 Message: Splitting input file to feed to Mappers
+Process: 455 Time: 2022-03-24 00:02:16,100 Message: Finished Splitting the file
+Process: 455 Time: 2022-03-24 00:02:16,101 Message: Starting Map operations
+Process: 455 Time: 2022-03-24 00:02:16,211 Message: Finished Running all mappers
+Process: 455 Time: 2022-03-24 00:02:16,211 Message: Merging file to feed to reducers
+Process: 455 Time: 2022-03-24 00:02:16,297 Message: Merge files finished
+Process: 455 Time: 2022-03-24 00:02:16,297 Message: Starting reduce operations
+Process: 455 Time: 2022-03-24 00:02:28,460 Message: Finished running all reducers
+Process: 455 Time: 2022-03-24 00:02:28,461 Message: Combining results for all Reducers
+Process: 455 Time: 2022-03-24 00:02:28,480 Message: Finished combining results. Final result file created.
+Process: 455 Time: 2022-03-24 00:02:28,481 Message: Deleted all temporary files. Ending map reduce instance.
+Process: 455 Time: 2022-03-24 00:25:27,163 Message: System Ready to run Map Reduce
+Process: 455 Time: 2022-03-24 00:25:27,164 Message: Client has started Map Reduce Operation.
+Process: 455 Time: 2022-03-24 00:25:27,164 Message: Splitting input file to feed to Mappers
+Process: 455 Time: 2022-03-24 00:25:27,356 Message: Finished Splitting the file
+Process: 455 Time: 2022-03-24 00:25:27,357 Message: Starting Map operations
+Process: 455 Time: 2022-03-24 00:25:27,488 Message: Finished Running all mappers
+Process: 455 Time: 2022-03-24 00:25:27,489 Message: Merging file to feed to reducers
+Process: 455 Time: 2022-03-24 00:25:27,646 Message: Merge files finished
+Process: 455 Time: 2022-03-24 00:25:27,647 Message: Starting reduce operations
+Process: 455 Time: 2022-03-24 00:25:37,887 Message: Finished running all reducers
+Process: 455 Time: 2022-03-24 00:25:37,887 Message: Combining results for all Reducers
+Process: 455 Time: 2022-03-24 00:25:37,917 Message: Finished combining results. Final result file created.
+Process: 455 Time: 2022-03-24 00:25:37,918 Message: Deleted all temporary files. Ending map reduce instance.
+Process: 455 Time: 2022-03-24 00:25:38,023 Message: System Ready to run Map Reduce
+Process: 455 Time: 2022-03-24 00:25:38,023 Message: Client has started Map Reduce Operation.
+Process: 455 Time: 2022-03-24 00:25:38,023 Message: Splitting input file to feed to Mappers
+Process: 455 Time: 2022-03-24 00:25:38,224 Message: Finished Splitting the file
+Process: 455 Time: 2022-03-24 00:25:38,224 Message: Starting Map operations
+Process: 455 Time: 2022-03-24 00:25:38,334 Message: Finished Running all mappers
+Process: 455 Time: 2022-03-24 00:25:38,334 Message: Merging file to feed to reducers
+Process: 455 Time: 2022-03-24 00:25:38,419 Message: Merge files finished
+Process: 455 Time: 2022-03-24 00:25:38,420 Message: Starting reduce operations
+Process: 455 Time: 2022-03-24 00:25:50,983 Message: Finished running all reducers
+Process: 455 Time: 2022-03-24 00:25:50,983 Message: Combining results for all Reducers
+Process: 455 Time: 2022-03-24 00:25:51,003 Message: Finished combining results. Final result file created.
+Process: 455 Time: 2022-03-24 00:25:51,004 Message: Deleted all temporary files. Ending map reduce instance.
+Process: 525 Time: 2022-03-24 00:26:39,618 Message: System Ready to run Map Reduce
+Process: 525 Time: 2022-03-24 00:26:39,619 Message: Client has started Map Reduce Operation.
+Process: 525 Time: 2022-03-24 00:26:39,619 Message: Splitting input file to feed to Mappers
+Process: 525 Time: 2022-03-24 00:26:39,917 Message: Finished Splitting the file
+Process: 525 Time: 2022-03-24 00:26:39,918 Message: Starting Map operations for inverted index
+Process: 525 Time: 2022-03-24 00:26:40,231 Message: Finished Running all mappers
+Process: 525 Time: 2022-03-24 00:26:40,232 Message: Merging file to feed to reducers
+Process: 525 Time: 2022-03-24 00:26:40,486 Message: Merge files finished
+Process: 525 Time: 2022-03-24 00:26:40,486 Message: Starting reduce operations for inverted index
+Process: 525 Time: 2022-03-24 00:26:52,953 Message: Finished running all reducers
+Process: 525 Time: 2022-03-24 00:26:52,953 Message: Combining results for all Reducers
+Process: 525 Time: 2022-03-24 00:26:52,987 Message: Finished combining results. Final result file created.
+Process: 525 Time: 2022-03-24 00:26:52,989 Message: Deleted all temporary files. Ending map reduce instance.
+Process: 525 Time: 2022-03-24 00:26:53,242 Message: System Ready to run Map Reduce
+Process: 525 Time: 2022-03-24 00:26:53,242 Message: Client has started Map Reduce Operation.
+Process: 525 Time: 2022-03-24 00:26:53,242 Message: Splitting input file to feed to Mappers
+Process: 525 Time: 2022-03-24 00:26:53,516 Message: Finished Splitting the file
+Process: 525 Time: 2022-03-24 00:26:53,516 Message: Starting Map operations for word count
+Process: 525 Time: 2022-03-24 00:26:53,658 Message: Finished Running all mappers
+Process: 525 Time: 2022-03-24 00:26:53,658 Message: Merging file to feed to reducers
+Process: 525 Time: 2022-03-24 00:26:53,760 Message: Merge files finished
+Process: 525 Time: 2022-03-24 00:26:53,760 Message: Starting reduce operations for word count
+Process: 525 Time: 2022-03-24 00:27:05,901 Message: Finished running all reducers
+Process: 525 Time: 2022-03-24 00:27:05,901 Message: Combining results for all Reducers
+Process: 525 Time: 2022-03-24 00:27:05,920 Message: Finished combining results. Final result file created.
+Process: 525 Time: 2022-03-24 00:27:05,921 Message: Deleted all temporary files. Ending map reduce instance.
+Process: 525 Time: 2022-03-24 00:43:53,272 Message: System Ready to run Map Reduce
+Process: 525 Time: 2022-03-24 00:43:53,273 Message: Client has started Map Reduce Operation.
+Process: 525 Time: 2022-03-24 00:43:53,273 Message: Splitting input file to feed to Mappers
+Process: 525 Time: 2022-03-24 00:43:53,543 Message: Finished Splitting the file
+Process: 525 Time: 2022-03-24 00:43:53,544 Message: Starting Map operations for inverted index
+Process: 525 Time: 2022-03-24 00:43:53,711 Message: Finished Running all mappers
+Process: 525 Time: 2022-03-24 00:43:53,712 Message: Merging file to feed to reducers
+Process: 525 Time: 2022-03-24 00:43:53,905 Message: Merge files finished
+Process: 525 Time: 2022-03-24 00:43:53,906 Message: Starting reduce operations for inverted index
+Process: 525 Time: 2022-03-24 00:44:04,961 Message: Finished running all reducers
+Process: 525 Time: 2022-03-24 00:44:04,962 Message: Combining results for all Reducers
+Process: 525 Time: 2022-03-24 00:44:04,995 Message: Finished combining results. Final result file created.
+Process: 525 Time: 2022-03-24 00:44:04,997 Message: Deleted all temporary files. Ending map reduce instance.
+Process: 525 Time: 2022-03-24 00:44:05,126 Message: System Ready to run Map Reduce
+Process: 525 Time: 2022-03-24 00:44:05,127 Message: Client has started Map Reduce Operation.
+Process: 525 Time: 2022-03-24 00:44:05,127 Message: Splitting input file to feed to Mappers
+Process: 525 Time: 2022-03-24 00:44:05,327 Message: Finished Splitting the file
+Process: 525 Time: 2022-03-24 00:44:05,328 Message: Starting Map operations for word count
+Process: 525 Time: 2022-03-24 00:44:05,487 Message: Finished Running all mappers
+Process: 525 Time: 2022-03-24 00:44:05,488 Message: Merging file to feed to reducers
+Process: 525 Time: 2022-03-24 00:44:05,598 Message: Merge files finished
+Process: 525 Time: 2022-03-24 00:44:05,598 Message: Starting reduce operations for word count
+Process: 525 Time: 2022-03-24 00:44:17,811 Message: Finished running all reducers
+Process: 525 Time: 2022-03-24 00:44:17,811 Message: Combining results for all Reducers
+Process: 525 Time: 2022-03-24 00:44:17,830 Message: Finished combining results. Final result file created.
+Process: 525 Time: 2022-03-24 00:44:17,832 Message: Deleted all temporary files. Ending map reduce instance.
+Process: 525 Time: 2022-03-24 00:44:17,945 Message: System Ready to run Map Reduce
+Process: 525 Time: 2022-03-24 00:44:17,945 Message: System Ready to run Map Reduce
+Process: 525 Time: 2022-03-24 00:44:17,946 Message: Client has started Map Reduce Operation.
+Process: 525 Time: 2022-03-24 00:44:17,946 Message: Client has started Map Reduce Operation.
+Process: 525 Time: 2022-03-24 00:44:17,946 Message: Splitting input file to feed to Mappers
+Process: 525 Time: 2022-03-24 00:44:17,946 Message: Splitting input file to feed to Mappers
+Process: 525 Time: 2022-03-24 00:44:18,477 Message: Finished Splitting the file
+Process: 525 Time: 2022-03-24 00:44:18,483 Message: Starting Map operations for inverted index
+Process: 525 Time: 2022-03-24 00:44:18,500 Message: Finished Splitting the file
+Process: 525 Time: 2022-03-24 00:44:18,500 Message: Starting Map operations for word count
+Process: 525 Time: 2022-03-24 00:44:18,681 Message: Finished Running all mappers
+Process: 525 Time: 2022-03-24 00:44:18,682 Message: Merging file to feed to reducers
+Process: 525 Time: 2022-03-24 00:44:18,706 Message: Finished Running all mappers
+Process: 525 Time: 2022-03-24 00:44:18,706 Message: Merging file to feed to reducers
+Process: 525 Time: 2022-03-24 00:44:18,872 Message: Merge files finished
+Process: 525 Time: 2022-03-24 00:44:18,873 Message: Starting reduce operations for inverted index
+Process: 525 Time: 2022-03-24 00:44:18,990 Message: Merge files finished
+Process: 525 Time: 2022-03-24 00:44:18,990 Message: Starting reduce operations for word count
+Process: 525 Time: 2022-03-24 00:44:33,562 Message: Finished running all reducers
+Process: 525 Time: 2022-03-24 00:44:33,562 Message: Combining results for all Reducers
+Process: 525 Time: 2022-03-24 00:44:33,611 Message: Finished combining results. Final result file created.
+Process: 525 Time: 2022-03-24 00:44:33,612 Message: Deleted all temporary files. Ending map reduce instance.
+Process: 525 Time: 2022-03-24 00:44:37,401 Message: Finished running all reducers
+Process: 525 Time: 2022-03-24 00:44:37,402 Message: Combining results for all Reducers
+Process: 525 Time: 2022-03-24 00:44:37,436 Message: Finished combining results. Final result file created.
+Process: 525 Time: 2022-03-24 00:44:37,437 Message: Deleted all temporary files. Ending map reduce instance.
+Process: 525 Time: 2022-03-24 00:55:34,389 Message: System Ready to run Map Reduce
+Process: 525 Time: 2022-03-24 00:55:34,389 Message: Client has started Map Reduce Operation.
+Process: 525 Time: 2022-03-24 00:55:34,389 Message: Splitting input file to feed to Mappers
+Process: 525 Time: 2022-03-24 00:55:34,667 Message: Finished Splitting the file
+Process: 525 Time: 2022-03-24 00:55:34,667 Message: Starting Map operations for inverted index
+Process: 525 Time: 2022-03-24 00:55:34,822 Message: Finished Running all mappers
+Process: 525 Time: 2022-03-24 00:55:34,822 Message: Merging file to feed to reducers
+Process: 525 Time: 2022-03-24 00:55:35,013 Message: Merge files finished
+Process: 525 Time: 2022-03-24 00:55:35,013 Message: Starting reduce operations for inverted index
+Process: 525 Time: 2022-03-24 00:55:46,411 Message: Finished running all reducers
+Process: 525 Time: 2022-03-24 00:55:46,412 Message: Combining results for all Reducers
+Process: 525 Time: 2022-03-24 00:55:46,448 Message: Finished combining results. Final result file created.
+Process: 525 Time: 2022-03-24 00:55:46,450 Message: Deleted all temporary files. Ending map reduce instance.
+Process: 525 Time: 2022-03-24 00:55:46,580 Message: System Ready to run Map Reduce
+Process: 525 Time: 2022-03-24 00:55:46,580 Message: Client has started Map Reduce Operation.
+Process: 525 Time: 2022-03-24 00:55:46,580 Message: Splitting input file to feed to Mappers
+Process: 525 Time: 2022-03-24 00:55:46,750 Message: Finished Splitting the file
+Process: 525 Time: 2022-03-24 00:55:46,750 Message: Starting Map operations for word count
+Process: 525 Time: 2022-03-24 00:55:46,858 Message: Finished Running all mappers
+Process: 525 Time: 2022-03-24 00:55:46,858 Message: Merging file to feed to reducers
+Process: 525 Time: 2022-03-24 00:55:46,948 Message: Merge files finished
+Process: 525 Time: 2022-03-24 00:55:46,948 Message: Starting reduce operations for word count
+Process: 525 Time: 2022-03-24 00:55:59,137 Message: Finished running all reducers
+Process: 525 Time: 2022-03-24 00:55:59,138 Message: Combining results for all Reducers
+Process: 525 Time: 2022-03-24 00:55:59,157 Message: Finished combining results. Final result file created.
+Process: 525 Time: 2022-03-24 00:55:59,159 Message: Deleted all temporary files. Ending map reduce instance.
+Process: 525 Time: 2022-03-24 00:55:59,318 Message: System Ready to run Map Reduce
+Process: 525 Time: 2022-03-24 00:55:59,318 Message: System Ready to run Map Reduce
+Process: 525 Time: 2022-03-24 00:55:59,318 Message: Client has started Map Reduce Operation.
+Process: 525 Time: 2022-03-24 00:55:59,319 Message: Client has started Map Reduce Operation.
+Process: 525 Time: 2022-03-24 00:55:59,319 Message: Splitting input file to feed to Mappers
+Process: 525 Time: 2022-03-24 00:55:59,319 Message: Splitting input file to feed to Mappers
+Process: 525 Time: 2022-03-24 00:55:59,809 Message: Finished Splitting the file
+Process: 525 Time: 2022-03-24 00:55:59,809 Message: Starting Map operations for inverted index
+Process: 525 Time: 2022-03-24 00:55:59,818 Message: Finished Splitting the file
+Process: 525 Time: 2022-03-24 00:55:59,819 Message: Starting Map operations for word count
+Process: 525 Time: 2022-03-24 00:55:59,995 Message: Finished Running all mappers
+Process: 525 Time: 2022-03-24 00:55:59,996 Message: Merging file to feed to reducers
+Process: 525 Time: 2022-03-24 00:56:00,017 Message: Finished Running all mappers
+Process: 525 Time: 2022-03-24 00:56:00,017 Message: Merging file to feed to reducers
+Process: 525 Time: 2022-03-24 00:56:00,188 Message: Merge files finished
+Process: 525 Time: 2022-03-24 00:56:00,189 Message: Starting reduce operations for inverted index
+Process: 525 Time: 2022-03-24 00:56:00,314 Message: Merge files finished
+Process: 525 Time: 2022-03-24 00:56:00,315 Message: Starting reduce operations for word count
+Process: 525 Time: 2022-03-24 00:56:14,792 Message: Finished running all reducers
+Process: 525 Time: 2022-03-24 00:56:14,792 Message: Combining results for all Reducers
+Process: 525 Time: 2022-03-24 00:56:14,834 Message: Finished combining results. Final result file created.
+Process: 525 Time: 2022-03-24 00:56:14,835 Message: Deleted all temporary files. Ending map reduce instance.
+Process: 525 Time: 2022-03-24 00:56:18,503 Message: Finished running all reducers
+Process: 525 Time: 2022-03-24 00:56:18,504 Message: Combining results for all Reducers
+Process: 525 Time: 2022-03-24 00:56:18,525 Message: Finished combining results. Final result file created.
+Process: 525 Time: 2022-03-24 00:56:18,526 Message: Deleted all temporary files. Ending map reduce instance.

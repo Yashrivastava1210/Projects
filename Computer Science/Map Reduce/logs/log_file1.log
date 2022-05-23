@@ -1,0 +1,47 @@
+Process: 333 Time: 2022-03-23 22:43:03,983 Message: Connected to client
+Process: 333 Time: 2022-03-23 22:43:04,035 Message: Received all parameters from client
+Process: 333 Time: 2022-03-23 22:43:04,035 Message: System Ready to run Map Reduce
+Process: 333 Time: 2022-03-23 22:43:04,035 Message: Client has started Map Reduce Operation.
+Process: 333 Time: 2022-03-23 22:43:04,035 Message: Splitting input file to feed to Mappers
+Process: 333 Time: 2022-03-23 22:43:04,355 Message: Finished Splitting the file
+Process: 333 Time: 2022-03-23 22:43:04,355 Message: Starting Map operations
+Process: 333 Time: 2022-03-23 22:43:04,501 Message: Finished Running all mappers
+Process: 333 Time: 2022-03-23 22:43:04,502 Message: Merging file to feed to reducers
+Process: 333 Time: 2022-03-23 22:43:04,503 Message: Master failure. Restarting the master to rerun operation.
+Process: 333 Time: 2022-03-23 22:43:04,503 Message: Connected to client
+Process: 333 Time: 2022-03-23 22:43:04,515 Message: Master failure. Restarting the master to rerun operation.
+Process: 333 Time: 2022-03-23 22:43:04,515 Message: Connected to client
+Process: 333 Time: 2022-03-23 22:43:04,515 Message: Master failure. Restarting the master to rerun operation.
+Process: 333 Time: 2022-03-23 22:43:04,515 Message: Connected to client
+Process: 333 Time: 2022-03-23 22:43:04,515 Message: Master failure. Restarting the master to rerun operation.
+Process: 341 Time: 2022-03-23 22:44:10,020 Message: System Ready to run Map Reduce
+Process: 341 Time: 2022-03-23 22:44:10,021 Message: Client has started Map Reduce Operation.
+Process: 341 Time: 2022-03-23 22:44:10,021 Message: Splitting input file to feed to Mappers
+Process: 341 Time: 2022-03-23 22:44:10,300 Message: Finished Splitting the file
+Process: 341 Time: 2022-03-23 22:44:10,300 Message: Starting Map operations
+Process: 341 Time: 2022-03-23 22:44:10,459 Message: Finished Running all mappers
+Process: 341 Time: 2022-03-23 22:44:10,460 Message: Merging file to feed to reducers
+Process: 349 Time: 2022-03-23 22:45:47,738 Message: System Ready to run Map Reduce
+Process: 349 Time: 2022-03-23 22:45:47,739 Message: Client has started Map Reduce Operation.
+Process: 349 Time: 2022-03-23 22:45:47,739 Message: Splitting input file to feed to Mappers
+Process: 349 Time: 2022-03-23 22:45:47,979 Message: Finished Splitting the file
+Process: 349 Time: 2022-03-23 22:45:47,979 Message: Starting Map operations
+Process: 349 Time: 2022-03-23 22:45:48,177 Message: Finished Running all mappers
+Process: 349 Time: 2022-03-23 22:45:48,178 Message: Merging file to feed to reducers
+Process: 349 Time: 2022-03-23 22:45:48,343 Message: Merge files finished
+Process: 349 Time: 2022-03-23 22:45:48,344 Message: Starting reduce operations
+Process: 349 Time: 2022-03-23 22:45:59,381 Message: Finished running all reducers
+Process: 349 Time: 2022-03-23 22:45:59,381 Message: Combining results for all Reducers
+Process: 349 Time: 2022-03-23 22:45:59,410 Message: Finished combining results. Final result file created.
+Process: 349 Time: 2022-03-23 22:45:59,411 Message: Deleted all temporary files. Ending map reduce instance.
+Process: 349 Time: 2022-03-23 22:49:17,965 Message: System Ready to run Map Reduce
+Process: 349 Time: 2022-03-23 22:49:17,966 Message: Client has started Map Reduce Operation.
+Process: 349 Time: 2022-03-23 22:49:17,966 Message: Splitting input file to feed to Mappers
+Process: 349 Time: 2022-03-23 22:49:18,335 Message: Finished Splitting the file
+Process: 349 Time: 2022-03-23 22:49:18,336 Message: Starting Map operations
+Process: 349 Time: 2022-03-23 22:49:18,493 Message: Finished Running all mappers
+Process: 349 Time: 2022-03-23 22:49:18,494 Message: Merging file to feed to reducers
+Process: 349 Time: 2022-03-23 22:49:18,652 Message: Merge files finished
+Process: 349 Time: 2022-03-23 22:49:18,653 Message: Starting reduce operations
+Process: 349 Time: 2022-03-23 22:49:18,785 Message: Finished running all reducers
+Process: 349 Time: 2022-03-23 22:49:18,786 Message: Combining results for all Reducers

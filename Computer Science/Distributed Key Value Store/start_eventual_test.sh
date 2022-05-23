@@ -1,0 +1,1 @@
+python3 tests/eventual_consistancy_test.py

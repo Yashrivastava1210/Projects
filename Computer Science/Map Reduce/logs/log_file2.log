@@ -1,0 +1,59 @@
+Process: 375 Time: 2022-03-23 22:49:34,583 Message: System Ready to run Map Reduce
+Process: 375 Time: 2022-03-23 22:49:34,583 Message: Client has started Map Reduce Operation.
+Process: 375 Time: 2022-03-23 22:49:34,584 Message: Splitting input file to feed to Mappers
+Process: 375 Time: 2022-03-23 22:49:34,917 Message: Finished Splitting the file
+Process: 375 Time: 2022-03-23 22:49:34,917 Message: Starting Map operations
+Process: 375 Time: 2022-03-23 22:49:35,182 Message: Finished Running all mappers
+Process: 375 Time: 2022-03-23 22:49:35,183 Message: Merging file to feed to reducers
+Process: 375 Time: 2022-03-23 22:49:35,338 Message: Merge files finished
+Process: 375 Time: 2022-03-23 22:49:35,338 Message: Starting reduce operations
+Process: 375 Time: 2022-03-23 22:49:35,472 Message: Finished running all reducers
+Process: 375 Time: 2022-03-23 22:49:35,473 Message: Combining results for all Reducers
+Process: 389 Time: 2022-03-23 22:50:54,004 Message: System Ready to run Map Reduce
+Process: 389 Time: 2022-03-23 22:50:54,005 Message: Client has started Map Reduce Operation.
+Process: 389 Time: 2022-03-23 22:50:54,005 Message: Splitting input file to feed to Mappers
+Process: 389 Time: 2022-03-23 22:50:54,287 Message: Finished Splitting the file
+Process: 389 Time: 2022-03-23 22:50:54,287 Message: Starting Map operations
+Process: 389 Time: 2022-03-23 22:50:54,511 Message: Finished Running all mappers
+Process: 389 Time: 2022-03-23 22:50:54,512 Message: Merging file to feed to reducers
+Process: 389 Time: 2022-03-23 22:50:54,637 Message: Merge files finished
+Process: 389 Time: 2022-03-23 22:50:54,638 Message: Starting reduce operations
+Process: 389 Time: 2022-03-23 22:51:04,514 Message: Finished running all reducers
+Process: 389 Time: 2022-03-23 22:51:04,515 Message: Combining results for all Reducers
+Process: 389 Time: 2022-03-23 22:51:04,545 Message: Finished combining results. Final result file created.
+Process: 389 Time: 2022-03-23 22:51:04,546 Message: Deleted all temporary files. Ending map reduce instance.
+Process: 389 Time: 2022-03-23 22:51:18,212 Message: System Ready to run Map Reduce
+Process: 389 Time: 2022-03-23 22:51:18,212 Message: Client has started Map Reduce Operation.
+Process: 389 Time: 2022-03-23 22:51:18,212 Message: Splitting input file to feed to Mappers
+Process: 389 Time: 2022-03-23 22:51:18,560 Message: Finished Splitting the file
+Process: 389 Time: 2022-03-23 22:51:18,560 Message: Starting Map operations
+Process: 389 Time: 2022-03-23 22:51:18,729 Message: Finished Running all mappers
+Process: 389 Time: 2022-03-23 22:51:18,730 Message: Merging file to feed to reducers
+Process: 389 Time: 2022-03-23 22:51:18,870 Message: Merge files finished
+Process: 389 Time: 2022-03-23 22:51:18,870 Message: Starting reduce operations
+Process: 389 Time: 2022-03-23 22:51:19,005 Message: Finished running all reducers
+Process: 389 Time: 2022-03-23 22:51:19,006 Message: Combining results for all Reducers
+Process: 414 Time: 2022-03-23 22:52:26,383 Message: System Ready to run Map Reduce
+Process: 414 Time: 2022-03-23 22:52:26,384 Message: Client has started Map Reduce Operation.
+Process: 414 Time: 2022-03-23 22:52:26,384 Message: Splitting input file to feed to Mappers
+Process: 414 Time: 2022-03-23 22:52:26,690 Message: Finished Splitting the file
+Process: 414 Time: 2022-03-23 22:52:26,691 Message: Starting Map operations
+Process: 414 Time: 2022-03-23 22:52:26,898 Message: Finished Running all mappers
+Process: 414 Time: 2022-03-23 22:52:26,899 Message: Merging file to feed to reducers
+Process: 414 Time: 2022-03-23 22:52:27,066 Message: Merge files finished
+Process: 414 Time: 2022-03-23 22:52:27,067 Message: Starting reduce operations
+Process: 414 Time: 2022-03-23 22:52:27,214 Message: Finished running all reducers
+Process: 414 Time: 2022-03-23 22:52:27,215 Message: Combining results for all Reducers
+Process: 428 Time: 2022-03-23 22:53:44,396 Message: System Ready to run Map Reduce
+Process: 428 Time: 2022-03-23 22:53:44,397 Message: Client has started Map Reduce Operation.
+Process: 428 Time: 2022-03-23 22:53:44,397 Message: Splitting input file to feed to Mappers
+Process: 428 Time: 2022-03-23 22:53:44,771 Message: Finished Splitting the file
+Process: 428 Time: 2022-03-23 22:53:44,771 Message: Starting Map operations
+Process: 428 Time: 2022-03-23 22:53:45,012 Message: Finished Running all mappers
+Process: 428 Time: 2022-03-23 22:53:45,012 Message: Merging file to feed to reducers
+Process: 428 Time: 2022-03-23 22:53:45,161 Message: Merge files finished
+Process: 428 Time: 2022-03-23 22:53:45,161 Message: Starting reduce operations
+Process: 428 Time: 2022-03-23 22:53:59,019 Message: Finished running all reducers
+Process: 428 Time: 2022-03-23 22:53:59,019 Message: Combining results for all Reducers
+Process: 428 Time: 2022-03-23 22:53:59,038 Message: Finished combining results. Final result file created.
+Process: 428 Time: 2022-03-23 22:53:59,040 Message: Deleted all temporary files. Ending map reduce instance.
