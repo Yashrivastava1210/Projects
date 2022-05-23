@@ -41,4 +41,4 @@ MAINTAINERS
 -----------
 
 Current maintainer:
- * Yash Shrivastava - yash.shrivastava@gmail.com
+ * Yash Shrivastava - yash.shrivastava1210@gmail.com
