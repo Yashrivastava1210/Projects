@@ -14,13 +14,13 @@ INTRODUCTION
 The repository holds all the projects made by me which are broadly divided into two domains:
 
 > Computer Science
-	* Distributed Key - Value Store
-	* Distributed Map Reduce
+  * Distributed Key - Value Store
+  * Distributed Map Reduce
 > Data Science
-	* Comparing different machine learning models for Spam website detection
-	* Emotion Recognition for Audio Files
-	* Emotion Recognition for Video Files
-	* Implementation of a CNN model
+  * Comparing different machine learning models for Spam website detection
+  * Emotion Recognition for Audio Files
+  * Emotion Recognition for Video Files
+  * Implementation of a CNN model
 
 
 REQUIREMENTS
